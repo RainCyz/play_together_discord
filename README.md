@@ -31,7 +31,7 @@ https://github.com/kosakarin/play_together
 
 # 安装说明
 
-1. 在`kokkoroBot/kokkoro/modules`目录下克隆本仓库：`git clone https://github.com/kosakarin/play_together`
+1. 在`kokkoroBot/kokkoro/modules`目录下克隆本仓库
 
 2. 修改`kokkoroBot/kokkoro/config/__bot__.py`，在`MODULES_ON`中加入`play_together`
 
